@@ -2,3 +2,4 @@ mkdocs-material
 mkdocstrings
 mkdocs==1.1.2
 pymdown-extensions
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
