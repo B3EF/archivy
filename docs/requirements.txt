@@ -2,3 +2,4 @@ mkdocs-material
 mkdocstrings
 mkdocs==1.1.2
 pymdown-extensions
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
